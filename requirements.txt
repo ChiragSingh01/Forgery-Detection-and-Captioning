@@ -1,0 +1,9 @@
+albumentations==1.3.0
+matplotlib
+numpy
+scikit_learn
+timm
+fvcore
+tensorboard
+transformer
+torch
